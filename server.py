@@ -9,7 +9,7 @@ def home_route():
 
 @app.route("/test")
 def test_route():
-    return render_template("table.html", otter="cheese")
+    return render_template("table.html", testing="This is the table text")
 
 app.run(host="localhost", port=port)
 
