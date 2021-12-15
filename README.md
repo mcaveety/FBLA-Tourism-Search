@@ -16,5 +16,5 @@ A program created to assist in searching popular tourist attractions in the stat
 
 + Suggests Florida tourist attractions based on desired attributes
 + Lists all available tourist attractions
-+ Filter the list search by Name, Activity Type, Group Size, and Town Name
++ Filter the list search by Name, Activity Type, Town Name, Group Size, and Ratings
 + Over # entries to search through!
