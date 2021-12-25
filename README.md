@@ -30,7 +30,7 @@ A program created to assist in searching popular tourist attractions in the stat
 
 ***
 
-## Checklist
+## Checklist (temporary)
 
 ***
 
