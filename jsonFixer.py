@@ -3,11 +3,16 @@ import json, random
 with open("locations.json") as j:
 	data = json.load(j)
 
-# open("locations2.json", "x")
 
 def overwrite():
+	with open("locations.json", "w") as f:
+		json.dump(data, f, indent=4)
+
+
+def backup():
 	with open("locations2.json", "w") as f:
 		json.dump(data, f, indent=4)
+
 
 # Adding types to data
 def updateTypes():
@@ -26,7 +31,6 @@ def updateTypes():
 				location["type"] = "theme park"
 			elif choice == 3:
 				location["type"] = "other"
-			overwrite()
 
 
 # Adding group sizes to data
@@ -51,21 +55,41 @@ def updateGroupSizes():
 				location["group size"] = "duo"
 			if choice == 3:
 				location["group size"] = "family"
-	overwrite()
+
 
 # Assigns a random rating to each location (1-5 stars)
 def assignRandomRating():
 	for location in data:
 		location["rating"] = str(random.randint(1,5))
-	overwrite()
 
-def updateTownName():
+
+# Used to separate address and telephone from description
+# Only should be used once!
+def fixDescription():
 	for location in data:
-		location["town"] = ""
+		description = location["description"]
+		descriptionSplit = description.split(". ", 2)
+		location["address"] = descriptionSplit[0]
+		location["telephone"] = descriptionSplit[1]
+		location["description"] = descriptionSplit[2]
 	overwrite()
 
-# overwrite() # use to update backup file
+
+# Adds true/false for if the location has free admission
+def addPrice():
+	for location in data:
+		if "free" in location["description"].lower():
+			location["free"] = True
+		else:
+			location["free"] = False
+
+
+# Uncomment to call functions
 # updateTypes()
 # updateGroupSizes()
 # assignRandomRating()
 # updateTownName()
+# fixDescription()
+# addPrice()
+# overwrite()
+# backup()
