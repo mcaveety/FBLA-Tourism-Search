@@ -1,7 +1,9 @@
-import json
+import json, random
 
 with open("locations.json") as j:
 	data = json.load(j)
+
+# open("locations2.json", "x")
 
 def overwrite():
 	with open("locations.json", "w") as f:
@@ -13,6 +15,7 @@ def updateTypes():
 		if "park" in location["name"].lower():
 			location["type"] = "park"
 			continue
+		# Manual selection of type
 		if location["type"] == "":
 			print(location["name"])
 			print(location["description"])
@@ -37,6 +40,7 @@ def updateGroupSizes():
 			location["group size"] = "solo"
 		elif location["type"] == "theme park":
 			location["group size"] = "family"
+		# Manual selection of size
 		elif location["type"] == "other":
 			print(location["name"])
 			print(location["description"])
@@ -49,7 +53,14 @@ def updateGroupSizes():
 				location["group size"] = "family"
 	overwrite()
 
-# overwrite()
+# Assigns a random rating to each location (1-5 stars)
+def assignRandomRating():
+	for location in data:
+		location["rating"] = str(random.randint(1,5))
+	overwrite()
+
+overwrite()
 # updateTypes()
-updateGroupSizes()
+# updateGroupSizes()
+# assignRandomRating()
 
