@@ -47,4 +47,9 @@ def updateGroupSizes():
 				location["group size"] = "duo"
 			if choice == 3:
 				location["group size"] = "family"
+	overwrite()
+
+# overwrite()
+# updateTypes()
+updateGroupSizes()
 
