@@ -6,7 +6,7 @@ with open("locations.json") as j:
 # open("locations2.json", "x")
 
 def overwrite():
-	with open("locations.json", "w") as f:
+	with open("locations2.json", "w") as f:
 		json.dump(data, f, indent=4)
 
 # Adding types to data
@@ -59,8 +59,13 @@ def assignRandomRating():
 		location["rating"] = str(random.randint(1,5))
 	overwrite()
 
-overwrite()
+def updateTownName():
+	for location in data:
+		location["town"] = ""
+	overwrite()
+
+# overwrite() # use to update backup file
 # updateTypes()
 # updateGroupSizes()
 # assignRandomRating()
-
+# updateTownName()
