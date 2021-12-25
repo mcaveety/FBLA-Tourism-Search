@@ -23,8 +23,11 @@ A program created to assist in searching popular tourist attractions in the stat
 
 ## Checklist
 
--[ ] Parse .json data so it can acutally be used
--[ ] Create .json reader so things can be searched
+-[x] Parse locations.json
+-[x] Add all keys to .json data
+-[ ] Fill in town name key
+-[ ] Fix location descriptions 
+-[ ] Create .json filter for searching
 -[ ] Finalize HTML form so the inputs are relevant to the .json data
 -[ ] Create search method using HTML form inputs
 -[ ] Format HTML page
