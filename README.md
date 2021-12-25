@@ -28,21 +28,36 @@ A program created to assist in searching popular tourist attractions in the stat
 + Location rating was pseudorandomly assigned to each entry.
 + Location price was algorithmically assigned based on location description and manually checked for accuracy.
 
-
+***
 
 ## Checklist
 
+***
+
 Fixing Data
+
 -[x] Create disclaimer about data
+
 -[x] Parse locations.json
+
 -[x] Add all keys to .json data
+
 -[x] Fix location descriptions
  
+ ***
+ 
 Filtering Data
+
 -[ ] Create .json filter for searching
+
 -[ ] Create search method using HTML form inputs
+
+ ***
  
 HTML Page Formatting
+
 -[ ] Finalize HTML form so the inputs are relevant to the .json data
+
 -[ ] Format HTML page
+
 -[ ] Reset button? Live search (no submit button needed)?
