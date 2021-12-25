@@ -6,7 +6,8 @@
         "address": "Big Cypress Seminole Reservation, 34725 W Boundary Rd, Clewiston, FL 33440",
         "telephone": "\u00a0 Tel: 877-902-1113",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Air Force Armament Museum",
@@ -15,7 +16,8 @@
         "address": "100 Museum Dr, Eglin AFB, FL 32542",
         "telephone": " Tel: 850-882-4062",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Air Force Space & Missile Museum",
@@ -24,7 +26,8 @@
         "address": "Launch Complex 26, Kennedy Space Center\u00a0\u00a0Kennedy Space Center Visitor Complex",
         "telephone": "\u00a0Tel:\u00a0 855-433-4210",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "AJ's Water Adventures",
@@ -33,7 +36,8 @@
         "address": "116 Harbor Blvd, Destin, FL 32541",
         "telephone": "\u00a0 Tel: 850-837-2222",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Albin Polasek Museum and Sculpture Gardens",
@@ -42,7 +46,8 @@
         "address": "633 Osceola Ave, Winter Park, FL 32789",
         "telephone": " Tel: 407-647-6294",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Alexander Springs Recreational Area,\u00a0",
@@ -51,7 +56,8 @@
         "address": "49525 County Road 445, Altoona, Florida",
         "telephone": "\u00a0Tel: 352-669-3522",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Amelia Island Horseback Riding",
@@ -60,7 +66,8 @@
         "address": "Peters Point Rd, Amelia Island, FL 32034",
         "telephone": " Tel: 904-753-1701",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Appleton Museum of Art",
@@ -69,7 +76,8 @@
         "address": "College of Central Florida,\u00a04333 E Silver Springs Blvd, Ocala, FL 34470",
         "telephone": " Tel: 954-977-4400",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Asolo Repertory Theater",
@@ -78,7 +86,8 @@
         "address": "5555 N",
         "telephone": " Tamiami Trail, Sarasota, FL 34243",
         "group size": "family",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Babcock Ranch Eco Tours",
@@ -87,7 +96,8 @@
         "address": "8000 State Road 31, Punta Gorda, Florida 33982",
         "telephone": " Tel:800-500-5583",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Bahia Honda State Park",
@@ -96,7 +106,8 @@
         "address": "36850 Overseas Hwy,\u00a0Big Pine Key, FL 33043",
         "telephone": " Tel 305-872-2353",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Bailey-Matthew National Shell Museum",
@@ -105,7 +116,8 @@
         "address": "3075 Sanibel Captiva Rd, Sanibel, FL 33957",
         "telephone": " Tel: 239-395-2233",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Barnacle Historic State Park",
@@ -114,7 +126,8 @@
         "address": "3485 Main Hwy, Miami, FL 33133",
         "telephone": " Tel: 305-442-6866",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Big Cypress Loop Road & Lucky's Place",
@@ -123,7 +136,8 @@
         "address": "Lucky Cole is a photographer who specializes in taking pictures of beautiful nude women in natural settings",
         "telephone": "\u00a0 Halfway between Naples and Miami on Tamiami Trail (US-41)",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Big Cypress National Preserve",
@@ -132,7 +146,8 @@
         "address": "Big Cypress Swamp Welcome Center, 3300 Tamiami Trail East, Ochopee, Florida 34141",
         "telephone": " Tel: 239-695-4758",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Billy Swamp Safari",
@@ -141,7 +156,8 @@
         "address": "30000 Gator Tail Trail, Clewiston, FL 33440",
         "telephone": " Tel: 863-983-6101",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Biltmore Hotel",
@@ -150,7 +166,8 @@
         "address": "1200 Anastasia Ave, Coral Gables, FL 33134",
         "telephone": "\u00a0 Tel:855-311-6903",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Biscayne National Park",
@@ -159,7 +176,8 @@
         "address": "9700 Southwest 328th Street, Sir Lancelot Jones Way, Homestead, Florida 33033",
         "telephone": "\u00a0 Tel:\u00a0 305-230-33033",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Blowing Rocks Preserve",
@@ -168,7 +186,8 @@
         "address": "574 S Beach Rd, Hobe Sound, FL 33455",
         "telephone": "\u00a0Tel:\u00a0 561-744-6668",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Blue Spring State Park",
@@ -177,7 +196,8 @@
         "address": "2100 W",
         "telephone": " French Ave",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Bob's River Place",
@@ -186,7 +206,8 @@
         "address": "2878 CR 430, Branford, FL 32008",
         "telephone": " Tel: 352-542-7363",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Boggy Creek Airboat Adventures",
@@ -195,7 +216,8 @@
         "address": "2001 E",
         "telephone": " Southport Rd, Kissimmee, FL 34746",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Bok Tower Gardens",
@@ -204,7 +226,8 @@
         "address": "1151 Tower Blvd",
         "telephone": ", Lake Wales, Florida 33853",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Bonnet House Museum and Gardens",
@@ -213,7 +236,8 @@
         "address": "900 N",
         "telephone": " Birch Rd, Fort Lauderdale, FL 33304",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Boutique Adventures LLC",
@@ -222,7 +246,8 @@
         "address": "988s SE 178th Place, Summerfield, FL 34491",
         "telephone": " Tel: 352-307-5952",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Breakers Hotel",
@@ -231,7 +256,8 @@
         "address": "One South County Rd, Palm Beach, FL 33480",
         "telephone": "\u00a0 Tel: 877-724-3188",
         "group size": "family",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Brevard Zoo",
@@ -240,7 +266,8 @@
         "address": "8225 N Wickham Rd, Melbourne, Florida 32940",
         "telephone": " Tel:321-254-3002",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Broward Center for the Performing Arts",
@@ -249,7 +276,8 @@
         "address": "201 SW 5th Ave, Ft Lauderdale, FL 33312",
         "telephone": " Tel: 954-462-0222",
         "group size": "family",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Busch Gardens",
@@ -258,7 +286,8 @@
         "address": "19165 N McKinley Dr, Tampa, FL 33612",
         "telephone": "\u00a0 Tel: 813-884-4386",
         "group size": "family",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Butterfly World",
@@ -267,7 +296,8 @@
         "address": "3600 W",
         "telephone": " Sample Rd, Coconut Creek, FL",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Ca'da'Zan, Ringling Home",
@@ -276,7 +306,8 @@
         "address": "5401 Bay Shore Blvd, Sarasota, FL 34243",
         "telephone": "\u00a0 Tel: 941-359-5700",
         "group size": "family",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Canaveral National Seashore",
@@ -285,7 +316,8 @@
         "address": "Entrances near New Smyrna and Titusville",
         "telephone": " Tel: 321-267-1110",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Cassadaga-Mediums and Healers",
@@ -294,7 +326,8 @@
         "address": "\u00a01325 Stevens St",
         "telephone": ", Cassadaga, FL 32706",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Castillo de San Marcos",
@@ -303,7 +336,8 @@
         "address": "1 South Castillo Dr, St Augustine, FL 32084",
         "telephone": " Tel: 904-829-6506",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Cat Boat Adventures",
@@ -312,7 +346,8 @@
         "address": "Mount Dora Boating Center & Marina,\u00a0148 Charles AvenueMount Dora, FL 32757",
         "telephone": " Tel: 352-816-9339",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Catty Shack Ranch Wildlife Sanctuary",
@@ -321,7 +356,8 @@
         "address": "1860 Starratt Rd, Jacksonville, FL 32226",
         "telephone": " Tel: 904-757-3603",
         "group size": "family",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Central Florida Railroad Museum",
@@ -330,7 +366,8 @@
         "address": "101 S Boyd St, Winter Garden, FL 34787",
         "telephone": "\u00a0\u00a0Tel: 407-656-0559",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Chinsegut Hill Retreat",
@@ -339,7 +376,8 @@
         "address": "22495 Chinsegut Hill Road, Brooksville, Florida 34601",
         "telephone": " Tel: 352-277-1227",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Clyde Butcher's Big Cypress Gallery",
@@ -348,7 +386,8 @@
         "address": "52388 Tamiami Trail, Ochopee, Florida 34141",
         "telephone": "\u00a0 Tel: 239-695-2428",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Coral Castle",
@@ -357,7 +396,8 @@
         "address": "28655 South Dixie Hwy, Homestead, FL 33033",
         "telephone": " Tel:305-248-6345",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Corkscrew Swamp Sanctuary",
@@ -366,7 +406,8 @@
         "address": "375 Sanctuary Rd West, Naples, FL 34120",
         "telephone": "\u00a0\u00a0Tel: 239-349-9151",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Cracker Country Rural History Museum",
@@ -375,7 +416,8 @@
         "address": "4800 Hwy 301 North, Tampa, FL 33610",
         "telephone": " Tel: 813-627-4225",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Crystal River Swim With Manatees",
@@ -384,7 +426,8 @@
         "address": "Crystal River, Florida",
         "telephone": "\u00a0 There are many businesses in this town that will show you the hundreds of manatees that gather here and even let you get in the water and swim with the gentle creatures",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Cummer Museum of Art and Gardens",
@@ -393,7 +436,8 @@
         "address": "829 Riverside Ave, Jacksonville, FL 32204",
         "telephone": " Tel: 904-356-6857",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Dade Battlefield Historic State Park",
@@ -402,7 +446,8 @@
         "address": "7200 CR 603, Bushnell, Florida 33513",
         "telephone": "\u00a0 Tel: 352-793-4781",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Dali Museum",
@@ -411,7 +456,8 @@
         "address": "1000 Third Street So",
         "telephone": ", St",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Daytona International Speedway",
@@ -420,7 +466,8 @@
         "address": "1801 W",
         "telephone": " International Speedway Blvd, Daytona Beach, FL 32114, Tel: 800-748-7467",
         "group size": "family",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "DeFuniak Springs Historic District",
@@ -429,7 +476,8 @@
         "address": "\u00a0City of DeFuniak Springs71 US 90 West, DeFuniak Springs, FL 32433",
         "telephone": " Tel: 850-892-8500",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Deseret Ranches",
@@ -438,7 +486,8 @@
         "address": "\u00a0Visitor and Information Center,\u00a03584 Orchid Circle,\u00a0St",
         "telephone": " Cloud, Florida 34773",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Destin Sand Castle Lessons",
@@ -447,7 +496,8 @@
         "address": "Beach Sand Sculptures, POB 32459, Santa Rosa Beach, FL 32549",
         "telephone": " The beautiful sand beaches in the Destin area are home to these experts who teach you how to build your ultimate sand castle",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Devil's Millhopper Geological State Park",
@@ -456,7 +506,8 @@
         "address": "4732 Millhopper Rd, Gainesville, FL 32652",
         "telephone": "\u00a0Tel: 352-955-2008",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Dinosaur World",
@@ -465,7 +516,8 @@
         "address": "5145 Harvey Tew Road, Plant City, FL 33565",
         "telephone": " Tel: 813-717-9865",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Ding Darling National Wildlife Refuge",
@@ -474,7 +526,8 @@
         "address": "\u00a01 Wildlife Drive, Sanibel, Florida 333957",
         "telephone": "\u00a0 A 5,200 acre refuge, part of the U",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Disney Springs",
@@ -483,7 +536,8 @@
         "address": "1486 Buena Vista Drive, Orlando, FL 32830",
         "telephone": " Tel: 407-939-6244",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Don Garlits Museum of Drag Racing",
@@ -492,7 +546,8 @@
         "address": "13700 SW 16th Ave, Ocala, FL 34473",
         "telephone": "\u00a0 Tel: 352-245-8661",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Dr. Phillips Center for the Performing Arts",
@@ -501,7 +556,8 @@
         "address": "445 S",
         "telephone": " Magnolia Ave, Orlando, FL 32801",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Dry Tortugas National Park",
@@ -510,7 +566,8 @@
         "address": "Mailing Address:\u00a040001 State Road 9556, Homestead, FL 33034",
         "telephone": "Tel:\u00a0 305-242-7700",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Edison and Ford Winter Estates",
@@ -519,7 +576,8 @@
         "address": "2350 McGregor Blvd",
         "telephone": ", Fort Myers, FL 33901",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Epcot",
@@ -528,7 +586,8 @@
         "address": "Walt Disney World Resort, 200 Epcot Center Dr, Orlando,FL 32821",
         "telephone": " Tel: 407-939-5277",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Everglades and Keys Kayak Tours",
@@ -537,7 +596,8 @@
         "address": "104050 Overseas Hwy, Key Largo, FL 33037",
         "telephone": " Tel: 305-451-3018",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Everglades National Park",
@@ -546,7 +606,8 @@
         "address": "Entrances in Everglades City, Shark Valley, Homestead",
         "telephone": "\u00a0 Basic fee is $25",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Everglades Rod and Gun Club",
@@ -555,7 +616,8 @@
         "address": "200 Riverside Drive, Everglades City, Florida 34139",
         "telephone": "\u00a0 Tel: 239-695-2101",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Fairchild Tropical Botanic Garden",
@@ -564,7 +626,8 @@
         "address": "10901 Old Cutler Rd, Coral Gables, FL 33156",
         "telephone": " Tel: 305-667-1651",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Fantasy of Flight",
@@ -573,7 +636,8 @@
         "address": "1400 Broadway Blvd SE, Polk City, FL 33868",
         "telephone": " Tel: 863-984-3500",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Farm Tours of Ocala",
@@ -582,7 +646,8 @@
         "address": "801 SW 60th Ave, Ocala, FL 32668",
         "telephone": "\u00a0 Tel: 352-895-9302",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Flagler College (Ponce de Leon Hotel)",
@@ -591,7 +656,8 @@
         "address": "74 King Street, St",
         "telephone": " Augustine, FL 32084",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Flagler Museum, Whitehall",
@@ -600,7 +666,8 @@
         "address": "One Whitehall Way, Palm Beach, FL 33480",
         "telephone": "\u00a0 Tel: 561-655-2833",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Florida Air Museum",
@@ -609,7 +676,8 @@
         "address": "4175 Medulla Road, Lakeland, FL 33811",
         "telephone": "\u00a0 Tel: 863-904-6833",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Florida Aquarium",
@@ -618,7 +686,8 @@
         "address": "701 Channelside Drive, Tampa, FL 33602",
         "telephone": " Tel: 813-273-4000",
         "group size": "family",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Florida Caverns State Park",
@@ -627,7 +696,8 @@
         "address": "3345 Caverns Rd, Marianna, FL 32446",
         "telephone": "\u00a0Tel: 850-482-1228",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Florida Citrus Tower",
@@ -636,7 +706,8 @@
         "address": "141 North Highway US-27, Clermont, FL 34711",
         "telephone": " Tel: 352-394-4061",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Florida Keys Eco-Discovery Center",
@@ -645,7 +716,8 @@
         "address": "35 East Quay Road, Key West, FL 33040",
         "telephone": "\u00a0\u00a0Tel: 305-809-4750",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Florida Museum of Natural History",
@@ -654,7 +726,8 @@
         "address": "University of Florida Cultural Plaza, SW 34th Street and Hull Road, PO Box 112710, Gainesville, FL 32611",
         "telephone": " Tel:352-846-2000",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Florida Railroad Museum",
@@ -663,7 +736,8 @@
         "address": "12210 83rd Street East, Parrish, FL 34219",
         "telephone": "\u00a0Tel: 941-776-0906",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Florida State Capitol",
@@ -672,7 +746,8 @@
         "address": "Florida\u00e2\u0080\u0099s Capitol Complex, 400 South Monroe Street, Tallahassee, Florida 32399",
         "telephone": "\u00a0 Tel: 850-488-6167",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Florida Theatre",
@@ -681,7 +756,8 @@
         "address": "128 East Forsyth St",
         "telephone": ", Jacksonville, FL 32202",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Fort Caroline National Memorial",
@@ -690,7 +766,8 @@
         "address": "12713 Fort Caroline Road, Jacksonville, FL 32225",
         "telephone": " Tel: 904-641-7155",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Fort Christmas Historical Park",
@@ -699,7 +776,8 @@
         "address": "1300 Fort Christmas Rd, Christmas, FL 32709",
         "telephone": " Tel: 407-254-9310",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Fort Clinch State Park",
@@ -708,7 +786,8 @@
         "address": "2601 Atlantic Avenue, Fernandina Beach, FL 32034",
         "telephone": " Tel: 904-277-7274",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Fort Desoto Park",
@@ -717,7 +796,8 @@
         "address": "3500 Pinellas Bayway SouthTierra Verde, FL 33715",
         "telephone": "\u00a0 Tel: 727-582-2267",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Fort Gates Ferry",
@@ -726,7 +806,8 @@
         "address": "229 Fort Gates Ferry Rd, Crescent City, FL 32112",
         "telephone": " Tel:386-467-2411",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Fort Lauderdale Water Taxi",
@@ -735,7 +816,8 @@
         "address": "5 Boarding Locations in Fort Lauderdale, Tel: 954-467-6677",
         "telephone": "\u00a0 You can go to a specific destination or ride all day on the rivers and canals of Fort Lauderale",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Frank Lloyd Wright Child of the Sun",
@@ -744,7 +826,8 @@
         "address": "Florida Southern College,\u00a0111 Lake Hollingsworth Drive,\u00a0Lakeland, FL 33801",
         "telephone": " Tel: 863-680-4597",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Fruit And Spice Park",
@@ -753,7 +836,8 @@
         "address": "24801 SW 187 Ave, Homestead, FL 33031",
         "telephone": " Tel: 305-247-5727",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Fun Spot America",
@@ -762,7 +846,8 @@
         "address": "5700 Fun Spot Way, Orlando, FL 32819",
         "telephone": " Tel: 407-363-3867",
         "group size": "family",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Gatorland",
@@ -771,7 +856,8 @@
         "address": "14501 S",
         "telephone": " Orange Blossom Trail, Orlando, FL 32837",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Ginnie Springs Outdoors",
@@ -780,7 +866,8 @@
         "address": "7300 N",
         "telephone": "E",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Gulfarium Marine Adventure Park",
@@ -789,7 +876,8 @@
         "address": "1010 Miracle Strip Parkway SE, Fort Walton Beach, FL 32548",
         "telephone": "\u00a0 Tel: 850-243-9046",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Gumbo Limbo Nature Center",
@@ -798,7 +886,8 @@
         "address": "1801 N Ocean Blvd, Boca Raton, FL 33432",
         "telephone": " Tel: 561-544-8605",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Harbor Branch Ocean Discovery Center",
@@ -807,7 +896,8 @@
         "address": "5600 N US Highway 1, Fort Pierce, FL 34946",
         "telephone": "\u00a0Tel: 772-242-2293",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Hemingway Home",
@@ -816,7 +906,8 @@
         "address": "907 Whitehead Street, Key West, FL 33040",
         "telephone": " Tel: 305-294-1136",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Highlands Hammock State Park",
@@ -825,7 +916,8 @@
         "address": "5931 Hammock Rd, Sebring, FL 33872",
         "telephone": "\u00a0Tel: 863-386-6094",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Ichetucknee Inner Tube Trip",
@@ -834,7 +926,8 @@
         "address": "Ichetucknee Springs State Park12087 SW U",
         "telephone": "S",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "ICON Orlando",
@@ -843,7 +936,8 @@
         "address": "\u00a08401 International Dr, Orlando, FL 32819",
         "telephone": " Tel: 407-270-8644",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Jacksonville Museum of Science and History",
@@ -852,7 +946,8 @@
         "address": "1025 Museum Circle, Jacksonville, FL 32207",
         "telephone": " Tel: 904-396-6674",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Jacksonville Zoo",
@@ -861,7 +956,8 @@
         "address": "\u00a0370 Zoo Parkway, Jacksonville, FL 32218",
         "telephone": " Tel: 904-757-4463",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Judah P. Benjamin Confederate Memorial",
@@ -870,7 +966,8 @@
         "address": "Gamble Plantation State Park3708 Patten Ave, Ellenton, FL 34222",
         "telephone": " Tel: 941-723-4536",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "John Gorrie State Museum",
@@ -879,7 +976,8 @@
         "address": "46 6th St, Apalachicola, FL 32320",
         "telephone": " Tel: 850-653-9347",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Jungle Island",
@@ -888,7 +986,8 @@
         "address": "1111 Parrot Jungle Trail, Miami, Florida 33132",
         "telephone": "\u00a0 Tel: 305-400-7000",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Jungle Queen Riverboat",
@@ -897,7 +996,8 @@
         "address": "801 Seabreeze Blvd",
         "telephone": ", Fort Lauderdale, FL 33316",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Kayaking at Topsail Hill Preserve State Park",
@@ -906,7 +1006,8 @@
         "address": "Santa Rosa Beach, Florida 32459",
         "telephone": "\u00a0\u00a0Tel: 850-267-8330",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Kennedy Space Center Visitors Complex",
@@ -915,7 +1016,8 @@
         "address": "SR 405, Kennedy Space Center, FL 32899",
         "telephone": " Tel: 855-433-4210",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Key West Aquarium",
@@ -924,7 +1026,8 @@
         "address": "1 Whitehead Street (Mallory Square), Key West, Florida 33040",
         "telephone": " Tel: 305-296-2051",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Key West Express",
@@ -933,7 +1036,8 @@
         "address": "100 Grinnell St",
         "telephone": ", Key West, FL 33040",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Kingsley Plantation",
@@ -942,7 +1046,8 @@
         "address": "11676 Palmetto Ave",
         "telephone": ", Jacksonville, FL 32226",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Koreshan State Park",
@@ -951,7 +1056,8 @@
         "address": "3800 Corkscrew Road, Estero, FL 33928",
         "telephone": " Tel: 239-992-0311",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Lake Okeechobee Scenic Trail",
@@ -960,7 +1066,8 @@
         "address": "This is a free hiking, bicycling, horseback riding, and roller blading trail around the perimeter of Lake Okeechobee",
         "telephone": "\u00a0 The trail is on top of the 110 mile long dike around the lake",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Lake Placid Murals",
@@ -969,7 +1076,8 @@
         "address": "18 North Oak St, Lake Placid, FL 33852",
         "telephone": "\u00a0 Tel: 863-465-4335",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Legoland Florida Resort",
@@ -978,7 +1086,8 @@
         "address": "1 Legoland Way, Winter Haven, FL 33884",
         "telephone": "\u00a0 Tel: 888-690-5346",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Leu Gardens",
@@ -987,7 +1096,8 @@
         "address": "1920 North Forest Avenue, Orlando, FL 32803",
         "telephone": " Tel: 407-246-2620",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Lion Country Safari",
@@ -996,7 +1106,8 @@
         "address": "2003 Lion Country Safari Road, Loxahatchee, FL 33470",
         "telephone": " Tel: 561-793-1084",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Little Talbot Island State Park",
@@ -1005,7 +1116,8 @@
         "address": "12157 Heckscher Dr",
         "telephone": ", Jacksonville, FL 32226",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Mallory Square",
@@ -1014,7 +1126,8 @@
         "address": "400 Wall St, Key West, FL 33040",
         "telephone": "\u00a0 Tel: 305-809-3700",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Marie Selby Botanical Gardens",
@@ -1023,7 +1136,8 @@
         "address": "900 S",
         "telephone": " Palm Ave, Sarasota, FL 34236",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Marineland Florida",
@@ -1032,7 +1146,8 @@
         "address": "9600 Oceanshore Blvd",
         "telephone": ", St",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Marjorie Kinnan Rawlings Historic State Park",
@@ -1041,7 +1156,8 @@
         "address": "18700 S CR 325, Cross Creek, FL 32640",
         "telephone": "\u00a0Tel: 352-466-3672",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Mayport Highway A1A Car Ferry",
@@ -1050,7 +1166,8 @@
         "address": "\u00a0across the St",
         "telephone": " Johns River from Mayport to Fort George Island",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "McLarty Treasure Museum",
@@ -1059,7 +1176,8 @@
         "address": "13180 N Hwy A1A, Vero Beach, FL 32963",
         "telephone": " Tel: 321-984-4852",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Menello Museum of American Art",
@@ -1068,7 +1186,8 @@
         "address": "900 E",
         "telephone": " Princeton Street, Orlando, FL 32803",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Merritt Island National Wildlife Refuge",
@@ -1077,7 +1196,8 @@
         "address": "1987 Scrub Jay Way, Titusville, FL 32782",
         "telephone": " Tel: 321-861-5601",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Miami Marine Stadium",
@@ -1086,7 +1206,8 @@
         "address": "Rickenbacker Causeway, Virginia Key, Miami, Florida",
         "telephone": "\u00a0 You can drive up to this place but not go in",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Miami Seaquarium",
@@ -1095,7 +1216,8 @@
         "address": "4400 Rickenbacker Cswy, Miami, FL 33149",
         "telephone": " Tel: 305-361-5705",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Miccosukee Indian Village",
@@ -1104,7 +1226,8 @@
         "address": "This tribe separated from the Seminoles in 1962",
         "telephone": "\u00a0 The village is about 30 miles west of Miami on the Tamiami Trail (US-41)",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Miccosukee Resort and Gaming",
@@ -1113,7 +1236,8 @@
         "address": " 500 SW 177th Avenue, Miami, Florida 33194",
         "telephone": "\u00a0 Tel: 305-222-4600",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Mill Creek Farm Retirement Home For Horses",
@@ -1122,7 +1246,8 @@
         "address": "20307 NW County Road 235-A, Alachua, Florida 32616",
         "telephone": " Tel: 386-462-1001",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Morikami Museum and Japanese Gardens",
@@ -1131,7 +1256,8 @@
         "address": "4000 Morikami Park Road, Delray Beach, Florida 33446",
         "telephone": " Tel: 561-495-0233",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Morse Museum",
@@ -1140,7 +1266,8 @@
         "address": "445 N Park Ave, Winter Park, FL 32789",
         "telephone": " Tel: 407-645-5311",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Mote Marine Laboratory and Aquarium",
@@ -1149,7 +1276,8 @@
         "address": "1600 Ken Thompson Pkwy, Sarasota, FL 34236",
         "telephone": " Tel: 941-388-4441",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Murder Mystery Dinner Train",
@@ -1158,7 +1286,8 @@
         "address": "Colonial Passenger Station,\u00a02805 Colonial Blvd , Fort Myers, FL 33966",
         "telephone": "\u00a0Tel: 239-275-8487",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Museum of Florida History",
@@ -1167,7 +1296,8 @@
         "address": "500 S Bronough, Tallahassee, FL 32399",
         "telephone": " Tel: 850-245-6400",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Museum of the Everglades",
@@ -1176,7 +1306,8 @@
         "address": "105 Broadway Ave West, Everglades City, FL 34139",
         "telephone": " Tel: 239-695-0008",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Naples Botanical Garden",
@@ -1185,7 +1316,8 @@
         "address": "4820 Bayshore Dr, Naples, FL 34112",
         "telephone": " Tel: 239-643-7275",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Naples Princess Cruises",
@@ -1194,7 +1326,8 @@
         "address": "550 Port O Call Way, Naples, FL 34102",
         "telephone": " Tel: 239-649-2275",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Naples Zoo at Caribbean Gardens",
@@ -1203,7 +1336,8 @@
         "address": "1590 Goodlette Frank Rd, Naples, FL 34102",
         "telephone": " Tel: 239-262-5409",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "National Naval Aviation Museum",
@@ -1212,7 +1346,8 @@
         "address": "1750 Radford Blvd",
         "telephone": ", Suite C, Naval Air Station Pensacola, FL 32508",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "National Navy UDT-SEAL Museum",
@@ -1221,7 +1356,8 @@
         "address": "3300 N Hwy A1A, Fort Pierce, FL 34949",
         "telephone": "Tel: 772-595-5845",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Naturecoast Botanical Gardens",
@@ -1230,7 +1366,8 @@
         "address": "\u00a01489 Parker Avenue, Spring Hill, FL",
         "telephone": "\u00a0 This 4",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Ocala National Forest",
@@ -1239,7 +1376,8 @@
         "address": "Lake George Ranger District, 17147 E SR 40, Silver Springs, Florida 34488",
         "telephone": "\u00a0 Tel: 352-625-2520",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Ocean Drive Art Deco District",
@@ -1248,7 +1386,8 @@
         "address": "1001 Ocean Drive, Miami Beach, Florida",
         "telephone": " \u00a0Tel: 305-763-8026",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Oldest House Museum Complex",
@@ -1257,7 +1396,8 @@
         "address": "14 St",
         "telephone": " Francis St, St",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Olustee Battlefield Historic State Park",
@@ -1266,7 +1406,8 @@
         "address": "5815 Battlefield Trail Rd, Olustee, FL 32087",
         "telephone": " Tel: 386-758-0400",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Orange County Regional History Center.",
@@ -1275,7 +1416,8 @@
         "address": "65 East Central Boulevard, Orlando, Florida 32801",
         "telephone": " Tel: 407-836-8500",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Orlando Science Center",
@@ -1284,7 +1426,8 @@
         "address": "777 E Princeton St, Orlando, FL 32803",
         "telephone": "\u00a0Tel: 407-514-2000",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Paynes Prairie Preserve State Park",
@@ -1293,7 +1436,8 @@
         "address": "100 Savannah Blvd",
         "telephone": ", Micanopy, FL 32667",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Pensacola Historic Village",
@@ -1302,7 +1446,8 @@
         "address": "120 Church Street, Pensacola, FL 32502",
         "telephone": " Tel: 850-595-5985",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Philharmonic Center for the Arts",
@@ -1311,7 +1456,8 @@
         "address": "5833 Pelican Bay Blvd",
         "telephone": ", Naples, FL 34108",
         "group size": "family",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Ponce de Leon Inlet Lighthouse",
@@ -1320,7 +1466,8 @@
         "address": "4931 S",
         "telephone": " Peninsula Dr",
         "group size": "family",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Princess Place Preserve",
@@ -1329,7 +1476,8 @@
         "address": "2500 Princess Place Rd",
         "telephone": ", Palm Coast, Florida 32137",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Rainbow Springs State Park",
@@ -1338,7 +1486,8 @@
         "address": "19158 Southwest 81st Place Road,\u00a0Dunnellon, Florida 34432",
         "telephone": "\u00a0Tel: 352-465-8555",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Raymond E. Kravis Center for the Performing Arts",
@@ -1347,7 +1496,8 @@
         "address": "701 Okeechobee Blvd, W",
         "telephone": " Palm Beach, FL 33401",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Renninger's Mount Dora Twin Markets",
@@ -1356,7 +1506,8 @@
         "address": "20651 US-441, Mount Dora, FL 32757, Tel: 352-383-8393",
         "telephone": " This is a huge antique center and adjacent flea market on the same property",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Reptile Discovery Center",
@@ -1365,7 +1516,8 @@
         "address": "2710 Big John Drive, DeLand, FL 32724, Tel: 32724",
         "telephone": " This is a working venom extraction facility that has exhibits, tours, and field trips that will educate you about reptiles, including snakes",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Richloam General Store",
@@ -1374,7 +1526,8 @@
         "address": "38219 Richloam Clay Sink Road, Webster, FL",
         "telephone": " Tel: 800-915-8027",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Ringling Museum of Art",
@@ -1383,7 +1536,8 @@
         "address": "5401 Bayshore Rd, Sarasota, FL 34243",
         "telephone": " Tel: 941-359-5700",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Ripley's Believe It Or Not! Museum",
@@ -1392,7 +1546,8 @@
         "address": "19 San Marco Ave, St Augustine, FL 32084",
         "telephone": "\u00a0 Tel: 904-824-1606",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "River Safaris",
@@ -1401,7 +1556,8 @@
         "address": "10823 West Yulee Dr",
         "telephone": ", Homosassa, FL 34448",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Robert Is Here",
@@ -1410,7 +1566,8 @@
         "address": "19200 SW 344th St",
         "telephone": ", Homestead, FL 33034",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Robert The Doll",
@@ -1419,7 +1576,8 @@
         "address": "Fort East Martello Museum, Key West, FL 33040",
         "telephone": " Tel: 305-296-3913",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Sarasota Jungle Gardens",
@@ -1428,7 +1586,8 @@
         "address": "3701 Bayshore Rd, Sarasota, FL 34234",
         "telephone": " Tel: 941-355-1112",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Scalloping in the Gulf of Mexico",
@@ -1437,7 +1596,8 @@
         "address": "Florida Fish and Wildlife Conservation Commission620 S",
         "telephone": " Meridian St, Tallahassee, FL 32399",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Schooner Freedom",
@@ -1446,7 +1606,8 @@
         "address": "111 Avenida Menendez, St",
         "telephone": " Augustine, FL 32084",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Seacrest Wolf Preserve",
@@ -1455,7 +1616,8 @@
         "address": "3449 Bonnet Pond Rd, Chipley, FL 32428",
         "telephone": "\u00a0 Tel: 850-773-2897",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Seaside, Florida",
@@ -1464,7 +1626,8 @@
         "address": "Scenic Highway 30A Between Panama City Beach and Destin",
         "telephone": "\u00a0 A planned community created in 1981 on what had been an 80-acre private family retreat",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Seaworld Orlando",
@@ -1473,7 +1636,8 @@
         "address": "7007 Sea World Dr, Orlando, FL 32821",
         "telephone": " Tel: 407-545-5550",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Seminole Hard Rock Hotel and Casino",
@@ -1482,7 +1646,8 @@
         "address": "1 Seminole Way, Hollywood, FL 33314",
         "telephone": " Tel: 866-502-7529",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Shark Valley Tram Tours",
@@ -1491,7 +1656,8 @@
         "address": "36000 SW 8th St, Miami, FL 33194",
         "telephone": "\u00a0 Tel: 305-221-8455",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Silver Springs State Park",
@@ -1500,7 +1666,8 @@
         "address": "1425 Northeast 58th Ave, Ocala, FL 34470",
         "telephone": "\u00a0\u00a0Tel: 352-236-7148",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Smallwood Store",
@@ -1509,7 +1676,8 @@
         "address": "360 Mamie St, Chokoloskee, FL 34138",
         "telephone": " Tel: 239-695-2989",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Solomon's Castle",
@@ -1518,7 +1686,8 @@
         "address": "\u00a04533 Solomon Rd",
         "telephone": ", Ona, FL 33865",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Spook Hill",
@@ -1527,7 +1696,8 @@
         "address": "\u00a05th St, Lake Wales, FL 33853",
         "telephone": "\u00a0 This old attraction has been around for years",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "St. Augustine Alligator Farm",
@@ -1536,7 +1706,8 @@
         "address": "999 Anastasia Blvd",
         "telephone": ", St",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "St. Johns Rivership Company",
@@ -1545,7 +1716,8 @@
         "address": "433 N",
         "telephone": " Palmetto Ave, Sanford, FL 32771",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Stephen Foster Folk Culture Center State Park",
@@ -1554,7 +1726,8 @@
         "address": "11016 Lillian Saunders Dr (US-41), White Springs, FL 32096",
         "telephone": "\u00a0 Tel: 386-397-4331",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Suncoast Primate Sanctuary",
@@ -1563,7 +1736,8 @@
         "address": "4600 US-19 ALT, Palm Harbor, FL 34683",
         "telephone": " Tel: 727-943-5897",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Sunken Gardens",
@@ -1572,7 +1746,8 @@
         "address": "1825 4th St N, St",
         "telephone": " Petersburg, FL 33704",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Tampa Museum of Science & Industry",
@@ -1581,7 +1756,8 @@
         "address": "4801 E Fowler Ave, Tampa, FL 33617",
         "telephone": "\u00a0\u00a0Tel: 813-987-6000",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Theatre Of The Sea",
@@ -1590,7 +1766,8 @@
         "address": "Mile Marker 84",
         "telephone": "5, Islamorada, Florida",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "The Ancient Spanish Monastery",
@@ -1599,7 +1776,8 @@
         "address": "16711 W",
         "telephone": " Dixie Hwy, North Miami Beach, FL 33160",
         "group size": "duo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "The Dolphin Connection",
@@ -1608,7 +1786,8 @@
         "address": "Hawk's Cay Resort,61 Hawk's Cay Boulevard, Duck Key, FL 33050",
         "telephone": " Tel: 1-888-814-9154",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "The Florida Key Lime Pie Company",
@@ -1617,7 +1796,8 @@
         "address": "102 Dixie Lane, Cocoa Beach, Florida 32931",
         "telephone": "\u00a0 Tel: 321-385-9600",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "The Lightner Museum",
@@ -1626,7 +1806,8 @@
         "address": "75 King St, St",
         "telephone": " Augustine, FL 32084",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "The Revs Institute",
@@ -1635,7 +1816,8 @@
         "address": "2500 S Horseshoe Dr, Naples, FL 34104",
         "telephone": " Tel: 239-687-7387",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Tigertail Beach",
@@ -1644,7 +1826,8 @@
         "address": "430 Hernando Dr",
         "telephone": ", Marco Island, FL 34145",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Treaty Oak",
@@ -1653,7 +1836,8 @@
         "address": "Jesse Ball duPont Park, 1123 Prudential Drive, Jacksonville, Florida 32207",
         "telephone": "\u00a0 This quiet park in a busy city neighborhood is home to a beloved 250 year old Southern live oak",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Truman Little White House",
@@ -1662,7 +1846,8 @@
         "address": "111 Front St",
         "telephone": ", Key West, FL 33040",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Universal Orlando Resort",
@@ -1671,7 +1856,8 @@
         "address": "6000 Universal Blvd, Orlando, FL 32819",
         "telephone": "\u00a0 Tel: 407-363-8000",
         "group size": "family",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "University of Tampa (Tampa Bay Hotel)",
@@ -1680,7 +1866,8 @@
         "address": "Henry B",
         "telephone": " Plant Museum,\u00a0401 West Kennedy Blvd, Tampa, FL 33606",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Valiant Air Command Warbird Museum",
@@ -1689,7 +1876,8 @@
         "address": "Space Coast Regional Airport,\u00a06600 Tico Road, Titusville, Florida 32780",
         "telephone": "\u00a0Tel: 321-268-1941",
         "group size": "duo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Vizcaya Museum & Gardens",
@@ -1698,7 +1886,8 @@
         "address": "3251 S Miami Avenue, Miami, FL 33129",
         "telephone": "\u00a0 Tel: 305-250-9133",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Wakulla Springs State Park",
@@ -1707,7 +1896,8 @@
         "address": "465 Wakulla Park Drive,\u00a0Wakulla Springs, FL 32327",
         "telephone": "\u00a0\u00a0Tel: 850-561-7276",
         "group size": "duo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     },
     {
         "name": "Walt Disney World Resort",
@@ -1716,7 +1906,8 @@
         "address": " Orlando, FL 32830",
         "telephone": " Tel: 407-939-5277",
         "group size": "family",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Warm Mineral Springs",
@@ -1725,7 +1916,8 @@
         "address": "12200 San Servando Ave, North Port, FL 34287",
         "telephone": "Tel: 941-426-1692",
         "group size": "solo",
-        "rating": "5"
+        "rating": "5",
+        "town": ""
     },
     {
         "name": "Webster Flea Markets",
@@ -1734,7 +1926,8 @@
         "address": "516 NW Third Street, Webster, Florida 33596",
         "telephone": "\u00a0 Tel: 352-793-9877",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Weeki Wachee Springs",
@@ -1743,7 +1936,8 @@
         "address": "6131 Commercial Way, Weeki Wachee, FL 34646",
         "telephone": " Tel:352-592-5656",
         "group size": "solo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Wekiwa Springs State Park",
@@ -1752,7 +1946,8 @@
         "address": "1800 Wekiwa Circle, Apopka, FL 32712",
         "telephone": "\u00a0Tel: 407-884-2009",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Wildlife Sanctuary of Northwest Florida",
@@ -1761,7 +1956,8 @@
         "address": "105 North \u00e2\u0080\u009cS\u00e2\u0080\u009d St, Pensacola, FL 32505",
         "telephone": "\u00a0\u00a0Tel: 850-433-9453",
         "group size": "solo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Winter Park Scenic Boat Tour",
@@ -1770,7 +1966,8 @@
         "address": "312 East Morse Blvd, Winter Park, FL 32789",
         "telephone": "\u00a0Tel: 407-644-4056",
         "group size": "duo",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Withlacoochee State Trail",
@@ -1779,7 +1976,8 @@
         "address": "3100 Old Florida City RoadInverness, FL 34450",
         "telephone": "\u00a0 Tel: 352-726-0315The trail is a 46 mile long path on abandoned railroad tracks that follows a route roughly parallel to the Withlacoochee River",
         "group size": "solo",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Wynwood Walls",
@@ -1788,7 +1986,8 @@
         "address": "Wynwood Art District, Miami, FL",
         "telephone": " Tel: 305-799-3166",
         "group size": "family",
-        "rating": "4"
+        "rating": "4",
+        "town": ""
     },
     {
         "name": "Ybor City Historic District",
@@ -1797,7 +1996,8 @@
         "address": "1600 East 8th Avenue, Tampa, FL 33605",
         "telephone": " Tel: 813-241-8838",
         "group size": "family",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Ziplines",
@@ -1806,7 +2006,8 @@
         "address": "Zip lining is a year-round outdoor activity made possible by Florida\u00e2\u0080\u0099s moderate climate",
         "telephone": "\u00a0Ziplines are found in many playgrounds and theme parks, and in Florida a large number of them are located in natural settings where you can soar through the treetops above natural settings",
         "group size": "family",
-        "rating": "2"
+        "rating": "2",
+        "town": ""
     },
     {
         "name": "Zoo Tampa at Lowry Park",
@@ -1815,7 +2016,8 @@
         "address": "1101 W Sligh Ave, Tampa, FL 33604",
         "telephone": " Tel: 813-935-9552",
         "group size": "duo",
-        "rating": "1"
+        "rating": "1",
+        "town": ""
     },
     {
         "name": "Zoo World",
@@ -1824,6 +2026,7 @@
         "address": "9008 Front Beach Road,\u00a0Panama City Beach, Florida",
         "telephone": " 32407",
         "group size": "solo",
-        "rating": "3"
+        "rating": "3",
+        "town": ""
     }
 ]
