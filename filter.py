@@ -1,4 +1,4 @@
-# Filters data from locations.csv based on user input
+# Filters data from locations.json based on user input
 import json
 
 with open("locations.json") as j:
