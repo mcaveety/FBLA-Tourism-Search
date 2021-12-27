@@ -37,8 +37,3 @@ def locationsFilter(type, input, array):
             print(location)
 
 
-def displayFiltered(array):
-    for location in array:
-        print(location["name"])
-        print()
-
