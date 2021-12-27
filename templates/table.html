@@ -39,4 +39,12 @@
     <input type="submit" value="Search">
 </form>
 
+<p>List of Attractions</p>
+{% for location in array %}
+
+Location: {{ location["name"] }}
+Description: {{ location["description"] }}
+
+{% endfor %}
+
 {% endblock %}
