@@ -7,7 +7,7 @@ port = 8080
 @app.route("/", methods=["GET", "POST"])
 def home_route():
     if request.method == "GET":
-        return render_template("table.html", testing="CSV File Data")
+        return render_template("table.html", array=filter.fltData)
     if request.method == "POST":
         print(request.form.get("name"))
         print(request.form.get("attractionType"))

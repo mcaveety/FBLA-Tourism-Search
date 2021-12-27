@@ -1,4 +1,5 @@
 # Filters data from locations.json based on user input
+# Displays filtered data
 import json
 
 # Opens data file for filtering
@@ -36,4 +37,8 @@ def locationsFilter(type, input, array):
             print(location)
 
 
+def displayFiltered(array):
+    for location in array:
+        print(location["name"])
+        print()
 
