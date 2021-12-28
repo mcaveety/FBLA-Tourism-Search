@@ -40,11 +40,31 @@
 </form>
 
 <p>List of Attractions</p>
+<table>
+    <tr>
+        <th>Attraction Name</th>
+        <th>Description</th>
+        <th>Address</th>
+        <th>Telephone #</th>
+        <th>Type</th>
+        <th>Price</th>
+        <th>Group Size</th>
+        <th>Rating</th>
+    </tr>
 {% for location in array %}
 
-<p>Location: {{ location["name"] }}</p>
-<p>Description: {{ location["description"] }}</p>
+    <tr>
+        <td>{{ location["name"] }}</td>
+        <td>{{ location["description"] }}</td>
+        <td>{{ location["address"] }}</td>
+        <td>{{ location["telephone"] }}</td>
+        <td>{{ location["type"] }}</td>
+        <td>{{ location["price"] }}</td>
+        <td>{{ location["group size"] }}</td>
+        <td>{{ location["rating"] }}</td>
+    </tr>
 
 {% endfor %}
+</table>
 
 {% endblock %}
