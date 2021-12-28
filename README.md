@@ -48,16 +48,21 @@ Fixing Data
  
 Filtering Data
 
--[ ] Create .json filter for searching
+-[x] Create .json filter for searching
 
--[ ] Create search method using HTML form inputs
+-[x] Create search method using HTML form inputs
 
  ***
  
 HTML Page Formatting
 
--[ ] Finalize HTML form so the inputs are relevant to the .json data
+-[x] Finalize HTML form so the inputs are relevant to the .json data
 
--[ ] Format HTML page
+-[ ] Display search parameters after form submission (see filter.displayTypes())
 
--[ ] Reset button? Live search (no submit button needed)?
+-[ ] Create page header in base.html
+
+-[ ] Use CSS to make table look nice
+
+
+
