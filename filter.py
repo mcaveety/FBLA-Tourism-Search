@@ -13,5 +13,3 @@ def locationsFilter(type, input, array):
             yield location
 
     return array
-
-
