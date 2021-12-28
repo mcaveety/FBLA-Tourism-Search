@@ -78,10 +78,12 @@ def fixDescription():
 # Adds true/false for if the location has free admission
 def addPrice():
 	for location in data:
-		if "free" in location["description"].lower():
-			location["free"] = True
+		if location["free"]:
+			location["price"] = "free"
 		else:
-			location["free"] = False
+			location["price"] = "other"
+
+		location.pop("free")
 
 
 # Uncomment to call functions
