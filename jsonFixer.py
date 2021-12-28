@@ -85,6 +85,17 @@ def addPrice():
 
 		location.pop("free")
 
+# Removes the "Tel: " from the value
+# only run once
+def fixTele():
+	for location in data:
+		number = location["telephone"]
+		start = 0
+		stop = 4
+		# Removing first five characters
+		if len(number) > stop:
+			number = number[stop + 1::]
+		location["telephone"] = number
 
 # Uncomment to call functions
 # updateTypes()
@@ -93,5 +104,6 @@ def addPrice():
 # updateTownName()
 # fixDescription()
 # addPrice()
+# fixTele()
 # overwrite()
 # backup()
