@@ -17,9 +17,10 @@ def home_route():
                 continue
 
             fltData = filter.locationsFilter(element_id, value, fltData)
-            #filters = element_id + ": " + value + " , "
-
-        #filters = filter.displayTypes(fltData, filters)
+        #     filters = element_id + ": " + value + " , "
+        #
+        # filters = filter.displayTypes(fltData, filters)
+        # print(filters)
         return render_template("table.html", array=fltData)
 
 app.run(host="localhost", port=port)
