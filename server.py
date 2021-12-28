@@ -9,16 +9,15 @@ def home_route():
     if request.method == "GET":
         return render_template("table.html", array=filter.data)
     if request.method == "POST":
-        places = filter.data # filter.data is the original dataset
+        fltData = filter.data # filter.data is the original dataset
         for element_id, value in request.form.items():
             print(element_id, value) # just to see its looping
             if value == "0" or value == "":
                 continue
 
-            places = filter.locationsFilter(element_id, value, places)
-            print("Places: " + places) # this doesnt even execute
+            fltData = filter.locationsFilter(element_id, value, fltData)
 
-        return render_template("table.html", array=places)
+        return render_template("table.html", array=fltData)
 
 app.run(host="localhost", port=port)
 
