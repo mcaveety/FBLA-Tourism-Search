@@ -10,6 +10,6 @@ with open("static/locations.json") as j:
 # Searches through data based on user inputs gathered from POST request
 def locationsFilter(type, input, list):
     for location in list:
-        if input in location[type]:
+        if input.lower() in location[type].lower():
             yield location
 
