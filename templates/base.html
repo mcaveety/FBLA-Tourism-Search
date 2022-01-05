@@ -13,15 +13,36 @@
             text-align: center;
         }
 
+        img {
+            vertical-alignment: center;
+        }
+
+        button {
+            margin: 20px 30px;
+            padding: 8px 10px;
+            width: 5%;
+            background-color: #D6E7FF;
+            border: 3px solid #0350B5;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        div {
+            margin: 20px 30px;
+        }
+
         hr {
+            margin: 20px 30px;
             height: 10px;
             background-color: #0350B5;
             border-radius: 6px;
         }
 
         table {
+            border: 3px solid #023579;
             border-collapse: collapse;
-            width: 100%;
+            width: auto;
+            margin: 20px 30px;
         }
 
         td {
@@ -40,6 +61,10 @@
           color: white;
           height: 40px;
           font-size: 18px;
+        }
+
+        form {
+            margin: 20px 30px;
         }
 
         input[type=text] {
@@ -87,7 +112,11 @@
 </head>
 <body>
 
-    <h1>Florida Tourist Attractions Search Tool</h1>
+    <div>
+        <img src="https://www.countryflags.com/wp-content/uploads/florida-flag-jpg-xl-1536x1024.jpg" width="256" height="171">
+        <h1>Florida Tourist Attractions Search Tool</h1>
+    </div>
+
     <hr>
     <!-- Accesses other HTML templates to extend the base.html file -->
     {% block content %}
