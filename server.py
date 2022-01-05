@@ -10,17 +10,13 @@ def home_route():
         return render_template("table.html", array=filter.data)
     if request.method == "POST":
         fltData = filter.data
-        filters = "Filtered by: "
         for element_id, value in request.form.items():
             print(element_id, value)
             if value == "0" or value == "":
                 continue
 
             fltData = filter.locationsFilter(element_id, value, fltData)
-        #     filters = element_id + ": " + value + " , "
-        #
-        # filters = filter.displayTypes(fltData, filters)
-        # print(filters)
+
         return render_template("table.html", array=fltData)
 
 app.run(host="localhost", port=port)
