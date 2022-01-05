@@ -2,6 +2,21 @@
 
 {% block content %}
 
-<p>Help & Information</p>
+<a href="http://localhost:8080">Back to Search</a>
+<h2>Help & Information</h2>
+<h3>Using the Search Tool</h3>
+<p>To use the search tool:</p>
+<h3>Information</h3>
+<ul>
+    <li> All location name, address, telephone, and description data was accessed from <a href="https://www.florida-backroads-travel.com/florida-tourist-attractions.html" target="_blank">https://www.florida-backroads-travel.com/florida-tourist-attractions.html</a></li>
+    <li> Entries were omitted in scenarios where the aforementioned data was missing or inconsistent</li>
+    <li> Data was unaltered except to improve clarity or program functionality.</li>
+    <li> Location type, group size, rating, and price data were generated for purposes of program search functionality.</li>
+    <li> Location type was assigned algorithmically where "museum" or "park" was present in location name. Remaining entries were manually assigned location types.</li>
+    <li> Location group size was algorithmically assigned based on location type. In instances where location type was "other", group size was manually assigned.</li>
+    <li> Location rating was pseudorandomly assigned to each entry.</li>
+    <li> Location price was algorithmically assigned based on location description and manually checked for accuracy.</li>
+</ul>
+
 
 {% endblock %}
