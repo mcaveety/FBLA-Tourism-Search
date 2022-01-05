@@ -1,16 +1,16 @@
 import json, random
 
-with open("locations.json") as j:
+with open("static/locations.json") as j:
 	data = json.load(j)
 
 
 def overwrite():
-	with open("locations.json", "w") as f:
+	with open("static/locations.json", "w") as f:
 		json.dump(data, f, indent=4)
 
 
 def backup():
-	with open("locations2.json", "w") as f:
+	with open("static/locations2.json", "w") as f:
 		json.dump(data, f, indent=4)
 
 
