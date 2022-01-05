@@ -102,7 +102,7 @@
     {
         "name": "Bahia Honda State Park",
         "description": "Great view of the ocean, a nice beach, swimming, boating, fishing, and snorkeling.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "36850 Overseas Hwy, Big Pine Key, FL 33043",
         "telephone": "305-872-2353",
         "group size": "duo",
@@ -122,7 +122,7 @@
     {
         "name": "Barnacle Historic State Park",
         "description": "This was the home of Coconut Grove pioneer Ralph Middleton Munroe, who preserved the natural areas around his home. Today's park looks like the homestead did in 1891.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "3485 Main Hwy, Miami, FL 33133",
         "telephone": "305-442-6866",
         "group size": "duo",
@@ -162,7 +162,7 @@
     {
         "name": "Biscayne National Park",
         "description": "The park is nearly 173,000 acres and most of it is underwater. You will enjoy yourself in this park. You can snorkel, camp, boat, watch wildlife, fish, take guided eco-adventures, or just relax.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "9700 Southwest 328th Street, Sir Lancelot Jones Way, Homestead, Florida 33033",
         "telephone": "305-230-33033",
         "group size": "duo",
@@ -182,7 +182,7 @@
     {
         "name": "Blue Spring State Park",
         "description": "This park is a tremendous spot to observe manatees sheltering from the cold in the clear waters from November to March.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "2100 West French Ave., Orange City, FL 32763",
         "telephone": "386-775-3663",
         "group size": "duo",
@@ -412,7 +412,7 @@
     {
         "name": "Dade Battlefield Historic State Park",
         "description": "This park was established in 1921 to preserve and commemorate the site of Dade's Battle of 1835. Of 110 American soldiers, only 3 survived the ambush by Seminoles. It precipitated am awful war.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "7200 CR 603, Bushnell, Florida 33513",
         "telephone": "352-793-4781",
         "group size": "duo",
@@ -462,7 +462,7 @@
     {
         "name": "Devil's Millhopper Geological State Park",
         "description": "You walk down a 232-step wooden staircase into the bottom of a geological formation that has been attracting visitors for well over a century.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "4732 Millhopper Rd, Gainesville, FL 32652",
         "telephone": "352-955-2008",
         "group size": "duo",
@@ -512,7 +512,7 @@
     {
         "name": "Dry Tortugas National Park",
         "description": "You can take a long day trip or enjoy a camping adventure by visiting Dry Tortugas National Park about 70 miles west of Key West. It is home to Fort Jefferson.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "Mailing Address: 40001 State Road 9556, Homestead, FL 33034",
         "telephone": "305-242-7700",
         "group size": "duo",
@@ -632,7 +632,7 @@
     {
         "name": "Florida Caverns State Park",
         "description": "It is your chance to explore a network of underground caves created from limestone formations that have slowly dissolved over thousands of years.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "3345 Caverns Rd, Marianna, FL 32446",
         "telephone": "850-482-1228",
         "group size": "duo",
@@ -712,7 +712,7 @@
     {
         "name": "Fort Christmas Historical Park",
         "description": "The fort is a full-scale replica of the one that was built on Christmas Day, 1837. Many interesting buildings and artifacts.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "1300 Fort Christmas Rd, Christmas, FL 32709",
         "telephone": "407-254-9310",
         "group size": "duo",
@@ -722,7 +722,7 @@
     {
         "name": "Fort Clinch State Park",
         "description": "The park has 1,400 acres of natural beauty and a historic fort that sometimes has rangers dressed in period military uniforms.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "2601 Atlantic Avenue, Fernandina Beach, FL 32034",
         "telephone": "904-277-7274",
         "group size": "duo",
@@ -732,7 +732,7 @@
     {
         "name": "Fort Desoto Park",
         "description": "1,136 acres on 5 interconnected islands with great camping and beaches.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "3500 Pinellas Bayway SouthTierra Verde, FL 33715",
         "telephone": "727-582-2267",
         "group size": "duo",
@@ -762,7 +762,7 @@
     {
         "name": "Fruit And Spice Park",
         "description": "A county park devoted to fruits and spices. Things grow in this part of Florida that won't grow elsewhere in Florida or the United States.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "24801 SW 187 Ave, Homestead, FL 33031",
         "telephone": "305-247-5727",
         "group size": "duo",
@@ -802,7 +802,7 @@
     {
         "name": "Gulfarium Marine Adventure Park",
         "description": "Focuses on animal encounters with dolphins, stingrays, gators, reptiles, turtles, penguins, seals, and birds.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "1010 Miracle Strip Parkway SE, Fort Walton Beach, FL 32548",
         "telephone": "850-243-9046",
         "group size": "duo",
@@ -842,7 +842,7 @@
     {
         "name": "Highlands Hammock State Park",
         "description": "This park has one of Florida's diverse collections of plant and animal life in Florida. The park is home to 1,000-year-old oaks, old growth hammock, and the Florida panther.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "5931 Hammock Rd, Sebring, FL 33872",
         "telephone": "863-386-6094",
         "group size": "duo",
@@ -932,7 +932,7 @@
     {
         "name": "Kayaking at Topsail Hill Preserve State Park",
         "description": "Visitors can kayak, canoe, or paddleboard on a coastal dune lake in this beautiful state park with beach dunes more than 25 feet high.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "Santa Rosa Beach, Florida 32459",
         "telephone": "850-267-8330",
         "group size": "duo",
@@ -982,7 +982,7 @@
     {
         "name": "Koreshan State Park",
         "description": "The buildings are preserved of a cult that believed the entire universe existed inside of a giant, hollow sphere. Interesting exhibits and a serene campground.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "3800 Corkscrew Road, Estero, FL 33928",
         "telephone": "239-992-0311",
         "group size": "duo",
@@ -1032,7 +1032,7 @@
     {
         "name": "Little Talbot Island State Park",
         "description": "Great camping and beach access.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "12157 Heckscher Dr., Jacksonville, FL 32226",
         "telephone": "904-251-2320",
         "group size": "duo",
@@ -1072,7 +1072,7 @@
     {
         "name": "Marjorie Kinnan Rawlings Historic State Park",
         "description": "You will experience what 1930s farm life was like when the famous author lived and worked here. Her Florida Cracker style home and farm has been restored and is preserved.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "18700 S CR 325, Cross Creek, FL 32640",
         "telephone": "352-466-3672",
         "group size": "duo",
@@ -1282,7 +1282,7 @@
     {
         "name": "Olustee Battlefield Historic State Park",
         "description": "A site of a significant Civil War battle. U.S. Colored troops took part in the battle. You can see exhibits and artifacts in the visitor center.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "5815 Battlefield Trail Rd, Olustee, FL 32087",
         "telephone": "386-758-0400",
         "group size": "duo",
@@ -1312,7 +1312,7 @@
     {
         "name": "Paynes Prairie Preserve State Park",
         "description": "A 22,000 acre savannah with a wide variety of wildlife including bison and horses in addition to hundreds of bird varieties.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "100 Savannah Blvd., Micanopy, FL 32667",
         "telephone": "352-466-3397",
         "group size": "duo",
@@ -1352,7 +1352,7 @@
     {
         "name": "Rainbow Springs State Park",
         "description": "At the park's main entrance you can swim in the freshwater Rainbow River, rent canoes and kayaks, view waterfalls and gardens and enjoy a picnic area with grills, and pavilions.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "19158 Southwest 81st Place Road, Dunnellon, Florida 34432",
         "telephone": "352-465-8555",
         "group size": "duo",
@@ -1512,7 +1512,7 @@
     {
         "name": "Silver Springs State Park",
         "description": "The springs and attraction are in a Florida State Park. You can enjoy riding on the glass-bottomed boats, paddling in a kayak, or being amazed at the crystal-clear blue depths of Silver Springs.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "1425 Northeast 58th Ave, Ocala, FL 34470",
         "telephone": "352-236-7148",
         "group size": "duo",
@@ -1562,7 +1562,7 @@
     {
         "name": "Stephen Foster Folk Culture Center State Park",
         "description": "The park honors Stephen Foster, the composer of Florida's official song \"Old Folks at Home\". The museum here contains many exhibits and a carillon plays music during the day.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "11016 Lillian Saunders Dr (US-41), White Springs, FL 32096",
         "telephone": "386-397-4331",
         "group size": "duo",
@@ -1722,7 +1722,7 @@
     {
         "name": "Wakulla Springs State Park",
         "description": "The constant 70-degree waters are a wonderful retreat on hot summer days. You can also take a 45-minute riverboat tour where you will see alligators, manatee, and birds.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "465 Wakulla Park Drive, Wakulla Springs, FL 32327",
         "telephone": "850-561-7276",
         "group size": "duo",
@@ -1772,7 +1772,7 @@
     {
         "name": "Wekiwa Springs State Park",
         "description": "This has been a popular recreational spot for Orlando area residents and tourists for more than 100 years. It is so popular that on many days from May through October they have to close it when the maximum capacity of 250 cars has been reached.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "1800 Wekiwa Circle, Apopka, FL 32712",
         "telephone": "407-884-2009",
         "group size": "duo",
@@ -1792,7 +1792,7 @@
     {
         "name": "Winter Park Scenic Boat Tour",
         "description": "Several lakes in Winter Park are connected by scenic canals. The pontoon boat guides know their stuff and show you a lot of historical places and natural things on your one hour cruise.",
-        "type": "park",
+        "type": "outdoors park",
         "address": "312 East Morse Blvd, Winter Park, FL 32789",
         "telephone": "407-644-4056",
         "group size": "duo",

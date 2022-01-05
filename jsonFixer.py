@@ -97,6 +97,11 @@ def fixTele():
 			number = number[stop + 1::]
 		location["telephone"] = number
 
+def fixPark():
+	for location in data:
+		if location["type"] == "park":
+			location["type"] = "outdoors park"
+
 # Uncomment to call functions
 # updateTypes()
 # updateGroupSizes()
@@ -105,5 +110,9 @@ def fixTele():
 # fixDescription()
 # addPrice()
 # fixTele()
+# fixPark()
 # overwrite()
 # backup()
+
+
+
