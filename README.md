@@ -58,11 +58,21 @@ HTML Page Formatting
 
 -[x] Finalize HTML form so the inputs are relevant to the .json data
 
--[ ] Display search parameters after form submission (see filter.displayTypes())
+-[x] Use CSS to make table look nice
 
--[ ] Create page header in base.html
+-[ ] Display search parameters after form submission?
 
--[ ] Use CSS to make table look nice
+-[ ] Finish page header in base.html
+
+-[ ] Display error if no locations are found
+
+-[ ] Finish help & information page
+
+-[ ] Finish table-to-help navigation
+
+-[ ] Separate CSS style sheet
+
+
 
 
 
