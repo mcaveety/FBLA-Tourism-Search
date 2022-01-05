@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
 
-<form method="post">
+<form class="buffer" method="post">
 
     <input type="text" id="name" name="name" placeholder="Attraction Name">
 
@@ -38,7 +38,6 @@
     <input type="submit" value="Search">
 </form>
 
-<p>List of Attractions</p>
 <table style="width: 100%">
 
     <colgroup>
@@ -62,7 +61,7 @@
 {% for location in array %}
 
     <tr>
-        <td>{{ location["name"] }}</td>
+        <td class="bold">{{ location["name"] }}</td>
         <td>{{ location["description"] }}</td>
         <td>{{ location["address"] }}</td>
         <td class="center">{{ location["telephone"] }}</td>
