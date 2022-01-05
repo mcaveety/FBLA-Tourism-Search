@@ -1,0 +1,105 @@
+/* CSS Styles set for use across all templates */
+* {
+    font-family: "Helvetica", "Times New Roman"
+}
+
+h1 {
+    text-align: center;
+
+}
+
+img {
+    vertical-align: center;
+}
+
+button {
+    margin: 20px 30px;
+    padding: 8px 10px;
+    width: 5%;
+    background-color: #D6E7FF;
+    border: 3px solid #0350B5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+div {
+    margin: 20px 30px;
+    display: inline-block;
+}
+
+hr {
+    margin: 20px 30px;
+    height: 10px;
+    background-color: #0350B5;
+    border-radius: 6px;
+}
+
+table {
+    border: 3px solid #023579;
+    border-collapse: collapse;
+    width: auto;
+    margin: 20px 30px;
+}
+
+td {
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #C2DBFF
+}
+tr:nth-child(odd) {
+    background-color: #9AC5FE
+}
+
+th {
+  background-color: #0350B5;
+  color: white;
+  height: 40px;
+  font-size: 18px;
+}
+
+form {
+    margin: 20px 30px;
+}
+
+input[type=text] {
+    padding: 8px 10px;
+    width: 10%;
+}
+
+input[type=text]:focus {
+    background-color: #D6E7FF;
+}
+
+select {
+    padding: 8px 10px;
+    width: 10%
+
+}
+
+select:focus {
+    background-color: #D6E7FF;
+
+}
+
+input[type=submit] {
+    padding: 8px 10px;
+    width: 5%;
+    background-color: #D6E7FF;
+    border: 3px solid #0350B5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.buffer {
+    margin-bottom: 20px;
+}
