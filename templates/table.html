@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
 
+<!-- Form to collect user selections -->
 <form class="buffer" method="post">
 
     <input type="text" id="name" name="name" placeholder="Attraction Name">
@@ -38,6 +39,7 @@
     <input type="submit" value="Search">
 </form>
 
+<!-- Table to display filtered data -->
 <table style="width: 100%">
 
     <colgroup>
@@ -58,6 +60,7 @@
         <th>Group Size</th>
         <th>Rating</th>
     </tr>
+<!-- Loop to display each row of filtered data -->
 {% for location in array %}
 
     <tr>

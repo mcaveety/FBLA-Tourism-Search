@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Florida Tourist Attractions</title>
+    <!-- CSS Styles set for use across all templates -->
     <style>
         * {
             font-family: "Helvetica", "Times New Roman"
@@ -79,9 +80,12 @@
     </style>
 </head>
 <body>
-<h1>Florida Tourist Attractions Search</h1>
-{% block content %}
 
-{% endblock %}
+    <h1>Florida Tourist Attractions Search</h1>
+
+    <!-- Accesses other HTML templates to extend the base.html file -->
+    {% block content %}
+
+    {% endblock %}
 </body>
 </html>
