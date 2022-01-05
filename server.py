@@ -7,7 +7,8 @@ import filter
 app = Flask(__name__)
 port = 8080
 
-# Page URL is set and HTTP methods are defined
+# Main page URL is set to the default
+# HTTP methods set so data can be sent & received
 @app.route("/", methods=["GET", "POST"])
 def home_route():
     # HTTP method type is checked
@@ -24,6 +25,12 @@ def home_route():
             fltData = filter.locationsFilter(element_id, value, fltData)
 
         return render_template("table.html", array=fltData) # Filtered table is returned
+
+# Help & Information page URL is set
+# HTTP methods default so data is received only
+@app.route("/info")
+def info_route():
+    return render_template("info.html")
 
 app.run(host="localhost", port=port)
 
