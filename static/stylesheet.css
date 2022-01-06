@@ -10,6 +10,7 @@ h1 {
 
 img {
     vertical-align: center;
+    border: 3px solid #023579;
 }
 
 button {
@@ -20,11 +21,11 @@ button {
     border: 3px solid #0350B5;
     border-radius: 4px;
     cursor: pointer;
+    display: inline-block;
 }
 
 div {
     margin: 20px 30px;
-    display: inline-block;
 }
 
 hr {
@@ -102,4 +103,8 @@ input[type=submit] {
 
 .buffer {
     margin-bottom: 20px;
+}
+
+.inline {
+    display: inline-block;
 }

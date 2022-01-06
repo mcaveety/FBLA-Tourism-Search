@@ -1,8 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
 
-<!-- Displays link to Help & Information page -->
-<a href="http://localhost:8080/info"><button>Help & Information</button></a>
 <!-- Form to collect user selections -->
 <form class="buffer" method="post">
 
@@ -41,14 +39,17 @@
     <input type="submit" value="Search">
 </form>
 
+<!-- Displays link to Help & Information page -->
+<a href="http://localhost:8080/info"><button>Help & Information</button></a>
+
 <!-- Table to display filtered data -->
 <table>
 
     <colgroup>
-        <col span="1" style="width: 15%;">
-        <col span="1" style="width: 35%;">
-        <col span="1" style="width: 20%;">
-        <col span="1" style="width: 10%;">
+        <col span="1" style="width: 15%">
+        <col span="1" style="width: 35%">
+        <col span="1" style="width: 20%">
+        <col span="1" style="width: 10%">
         <col span="4" style="width: 5%">
     </colgroup>
 
@@ -63,7 +64,7 @@
         <th>Rating</th>
     </tr>
 <!-- Loop to display each row of filtered data -->
-{% for location in array %}
+{% for location in list %}
 
     <tr>
         <td class="bold">{{ location["name"] }}</td>
