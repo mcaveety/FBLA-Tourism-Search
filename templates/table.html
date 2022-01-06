@@ -23,7 +23,7 @@
     <select id="group size" name="group size">
         <option value="0">Group Size</option>
         <option value="solo">Solo</option>
-        <option value="duos">Duos</option>
+        <option value="duo">Duo</option>
         <option value="family">Family</option>
     </select>
 
@@ -39,8 +39,14 @@
     <input type="submit" value="Search">
 </form>
 
-<!-- Displays link to Help & Information page -->
+<!-- Allows navigation to Help & Information page -->
 <a href="http://localhost:8080/info"><button>Help & Information</button></a>
+
+<!-- Displays user inputs -->
+<div>
+    <p>Filtered by: {{ options }}</p>
+</div>
+
 
 <!-- Table to display filtered data -->
 <table>
@@ -64,20 +70,25 @@
         <th>Rating</th>
     </tr>
 <!-- Loop to display each row of filtered data -->
-{% for location in list %}
+{% if list %}
+    {% for location in list %}
 
-    <tr>
-        <td class="bold">{{ location["name"] }}</td>
-        <td>{{ location["description"] }}</td>
-        <td>{{ location["address"] }}</td>
-        <td class="center">{{ location["telephone"] }}</td>
-        <td class="center">{{ location["type"] }}</td>
-        <td class="center">{{ location["price"] }}</td>
-        <td class="center">{{ location["group size"] }}</td>
-        <td class="center">{{ location["rating"] }}</td>
-    </tr>
+        <tr>
+            <td class="bold">{{ location["name"] }}</td>
+            <td>{{ location["description"] }}</td>
+            <td>{{ location["address"] }}</td>
+            <td class="center">{{ location["telephone"] }}</td>
+            <td class="center">{{ location["type"] }}</td>
+            <td class="center">{{ location["price"] }}</td>
+            <td class="center">{{ location["group size"] }}</td>
+            <td class="center">{{ location["rating"] }}</td>
+        </tr>
 
-{% endfor %}
+    {% endfor %}
 </table>
+
+{% else %}
+    <p>No locations found which match the search type.</p>
+{% endif %}
 
 {% endblock %}
