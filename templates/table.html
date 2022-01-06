@@ -2,7 +2,7 @@
 {% block content %}
 
 <!-- Form to collect user selections -->
-<form class="buffer" method="post">
+<form method="post" style="display:inline">
 
     <input type="text" id="name" name="name" placeholder="Attraction Name">
 
@@ -40,37 +40,54 @@
 </form>
 
 <!-- Allows navigation to Help & Information page -->
-<a href="http://localhost:8080/info"><button>Help & Information</button></a>
+<a href="http://localhost:8080/info"><button style="display:inline;">Help & Information</button></a>
 
-<!-- Displays user inputs -->
+<!-- Displays input & output information -->
 <div>
-    <p>Filtered by: {{ options }}</p>
+    <!-- Displays user inputs -->
+    {% if options|length == 0 %}
+        <!-- Display nothing since no filters were used -->
+    {% else %}
+        <p>Filtered by: {{ options }}</p>
+    {% endif %}
+    <!-- Displays # of locations found in search -->
+    {% if list|length == 185 %}
+        <p>Showing all locations</p>
+    {% elif 1 < list|length < 185 %}
+        <p>{{list|length}} results</p>
+    {% elif list|length == 1 %}
+        <p>{{list|length}} result</p>
+    {% else %}
+        <!-- If no results were found, error returns instead -->
+        <p>No locations found which match the search type.</p>
+    {% endif %}
 </div>
 
 
 <!-- Table to display filtered data -->
-<table>
-
-    <colgroup>
-        <col span="1" style="width: 15%">
-        <col span="1" style="width: 35%">
-        <col span="1" style="width: 20%">
-        <col span="1" style="width: 10%">
-        <col span="4" style="width: 5%">
-    </colgroup>
-
-    <tr>
-        <th>Attraction Name</th>
-        <th>Description</th>
-        <th>Address</th>
-        <th>Telephone #</th>
-        <th>Type</th>
-        <th>Price</th>
-        <th>Group Size</th>
-        <th>Rating</th>
-    </tr>
-<!-- Loop to display each row of filtered data -->
 {% if list %}
+    <table>
+
+        <colgroup>
+            <col span="1" style="width: 15%">
+            <col span="1" style="width: 35%">
+            <col span="1" style="width: 20%">
+            <col span="1" style="width: 10%">
+            <col span="4" style="width: 5%">
+        </colgroup>
+
+        <tr>
+            <th>Attraction Name</th>
+            <th>Description</th>
+            <th>Address</th>
+            <th>Telephone #</th>
+            <th>Type</th>
+            <th>Price</th>
+            <th>Group Size</th>
+            <th>Rating</th>
+        </tr>
+
+    <!-- Loop to display each row of filtered data -->
     {% for location in list %}
 
         <tr>
@@ -85,10 +102,8 @@
         </tr>
 
     {% endfor %}
-</table>
+    </table>
 
-{% else %}
-    <p>No locations found which match the search type.</p>
 {% endif %}
 
 {% endblock %}
