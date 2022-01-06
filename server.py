@@ -28,11 +28,9 @@ def home_route():
 
         # Filtered table is returned
         # Selected options are displayed
-        if fltData:
-            print("true")
-            print(fltData)
-        else:
-            print("false")
+        # Converting the dictionary to a list allows length detection
+        fltData = list(fltData)
+        #fltOptions = list(fltOptions)
         return render_template("table.html", list=fltData, options=fltOptions)
 
 # Help & Information page URL is set

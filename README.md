@@ -60,13 +60,13 @@ HTML Page Formatting
 
 - [x] Use CSS to make table look nice
 
-- [ ] Display search parameters after form submission?
+- [x] Display search parameters after form submission?
 
 - [ ] Finish page header in base.html
 
-- [ ] Display error if no locations are found
+- [x] Display error if no locations are found
 
-- [ ] Finish help & information page
+- [ ] Finish help & information page (add link to github)
 
 - [x] Finish table-to-help navigation
 
