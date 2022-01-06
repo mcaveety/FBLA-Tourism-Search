@@ -28,6 +28,11 @@ def home_route():
 
         # Filtered table is returned
         # Selected options are displayed
+        if fltData:
+            print("true")
+            print(fltData)
+        else:
+            print("false")
         return render_template("table.html", list=fltData, options=fltOptions)
 
 # Help & Information page URL is set
