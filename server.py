@@ -14,17 +14,21 @@ def home_route():
     # HTTP method type is checked
     if request.method == "GET":
         # On page load, the full table data is displayed
-        return render_template("table.html", array=filter.data)
+        return render_template("table.html", list=filter.data)
     if request.method == "POST":
-        # On user input submission, the filtered data is generated
+        # On form submission, the data is filtered
         fltData = filter.data
+        fltOptions = {}
         for element_id, value in request.form.items():
             if value == "0" or value == "":
                 continue
 
             fltData = filter.locationsFilter(element_id, value, fltData)
+            fltOptions.update({element_id:value})
 
-        return render_template("table.html", array=fltData) # Filtered table is returned
+        # Filtered table is returned
+        # Selected options are displayed
+        return render_template("table.html", list=fltData, options=fltOptions)
 
 # Help & Information page URL is set
 # HTTP methods default so data is received only
