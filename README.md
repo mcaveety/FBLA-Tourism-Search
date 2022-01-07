@@ -66,7 +66,7 @@ HTML Page Formatting
 
 - [x] Display error if no locations are found
 
-- [ ] Finish help & information page (add link to github)
+- [x] Finish help & information page (add link to github)
 
 - [x] Finish table-to-help navigation
 
