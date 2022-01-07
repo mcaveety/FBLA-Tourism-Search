@@ -62,7 +62,7 @@ HTML Page Formatting
 
 - [x] Display search parameters after form submission?
 
-- [ ] Finish page header in base.html
+- [x] Finish page header in base.html
 
 - [x] Display error if no locations are found
 
