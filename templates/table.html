@@ -1,3 +1,9 @@
+<!--
+Displays simplified search tips,
+Displays the HTML form for searching,
+Displays search statistics,
+& Displays search results, if any
+-->
 {% extends "base.html" %}
 {% block content %}
 
@@ -5,7 +11,8 @@
 <div style="text-align:center">
     <p>The search tool allows for efficient filtering of popular tourist attractions in the state of Florida.</p>
     <p>Type in the name of an attraction or select filters from the dropdown menus. Press "search" to filter results.</p>
-    <p>Each search resets the filter.</p>
+    <!-- Allows navigation to Help & Information page -->
+    <a href="http://localhost:8080/info"><button>Help & Information</button></a>
 </div>
 
 <hr>
@@ -48,8 +55,6 @@
     <input type="submit" value="Search">
 </form>
 
-<!-- Allows navigation to Help & Information page -->
-<a href="http://localhost:8080/info"><button style="display:inline;">Help & Information</button></a>
 
 <!-- Displays input & output information -->
 <div>

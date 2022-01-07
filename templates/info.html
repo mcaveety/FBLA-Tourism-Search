@@ -1,17 +1,23 @@
 <!--
-Provides information on the website
-Lists the features of the search function
-Explains how to use the website
-Lists information about the creation of the site & data used on the site
+Provides information on the website,
+Lists the features of the search function,
+Explains how to use the website,
+& Lists information about the creation of the site & data used on the site
 -->
 
+<!-- Connects info.html to base.html -->
 {% extends "base.html" %}
 
+<!-- Changes page title -->
+{% block title %}Help & Information{% endblock %}
+
+<!-- Picks up where base.html left off -->
 {% block content %}
 
 <!-- Allows navigation back to search & table page -->
 <a href="http://localhost:8080"><button>Back to Search</button></a>
 
+<!-- Various lists of important information -->
 <div>
     <h2>Help & Information</h2>
     <h3>Features</h3>
@@ -46,8 +52,9 @@ Lists information about the creation of the site & data used on the site
         <li>Location rating was pseudorandomly assigned to each entry</li>
         <li>Location price was algorithmically assigned based on location description and manually checked for accuracy</li>
     </ul>
-    <a href="https://github.com/meepowlz/FBLA-Tourism-Search" target="_blank"><h3>Link to GitHub Repository</h3></a>
 </div>
+
+<a href="https://github.com/meepowlz/FBLA-Tourism-Search" target="_blank"><button><h3>Link to GitHub Repository</h3></button></a>
 
 
 {% endblock %}

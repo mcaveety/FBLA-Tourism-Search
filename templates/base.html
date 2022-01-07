@@ -1,8 +1,15 @@
+<!--
+Flask uses Jinja2 to render HTML templates
+Jinja2 allows Python to be used within HTML through the use of curly braces
+https://jinja2docs.readthedocs.io/en/stable/
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Sets page title and identifies CSS style sheet for use -->
     <meta charset="UTF-8">
-    <title>Florida Tourist Attractions</title>
+    <title>{% block title %}Florida Tourist Attractions{% endblock %}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='stylesheet.css') }}">
 </head>
 <body>
@@ -12,13 +19,15 @@
         <header>
             <img src="{{ url_for('static', filename='floridaflag.jpg') }}" style="float:left" class="flag">
             <img src="{{ url_for('static', filename='floridaflag.jpg') }}" style="float:right" class="flag">
-            <h1>Florida Tourist Attractions Search Tool</h1>
+            <div class="title">
+                <h1>Florida Tourist Attractions Search Tool</h1>
+            </div>
         </header>
     </div>
 
     <hr>
 
-    <!-- Accesses other HTML templates to extend the base.html file -->
+    <!-- Allows access from other HTML templates to extend the base.html file w/ Jinja2 -->
     {% block content %}
 
     {% endblock %}
