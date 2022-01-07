@@ -3,9 +3,13 @@
     font-family: "Helvetica", "Times New Roman"
 }
 
+body {
+    background-color: #EBF3FF;
+}
+
 h1 {
     text-align: center;
-
+    vertical-align: center;
 }
 
 img {
@@ -101,10 +105,7 @@ input[type=submit] {
     text-align: center;
 }
 
-.buffer {
-    margin-bottom: 20px;
-}
-
-.inline {
-    display: inline-block;
+.flag {
+    width: 128px;
+    height: 86px;
 }
