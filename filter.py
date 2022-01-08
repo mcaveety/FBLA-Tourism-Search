@@ -7,6 +7,12 @@ import json
 with open("json/locations.json") as j:
     data = json.load(j)
 
+# Backs up data to a second file
+def backup():
+    with open("json/locations2.json", "w") as f:
+        json.dump(data, f, indent=4)
+
+
 """
 Searches through data based on user inputs gathered from POST request
 If multiple types are selected, the filter is run multiple times
