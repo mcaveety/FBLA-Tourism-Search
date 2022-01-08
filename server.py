@@ -14,6 +14,8 @@ def home_route():
 
     # HTTP method type is checked
     if request.method == "GET":
+        # Data is backed up to a second file each time the webpage loads
+        filter.backup()
         # On page load, the full table data is displayed
         return render_template("table.html", list=filter.data)
 
