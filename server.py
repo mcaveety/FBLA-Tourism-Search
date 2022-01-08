@@ -11,33 +11,38 @@ port = 8080
 # HTTP methods set so data can be sent & received
 @app.route("/", methods=["GET", "POST"])
 def home_route():
+
     # HTTP method type is checked
     if request.method == "GET":
         # On page load, the full table data is displayed
         return render_template("table.html", list=filter.data)
+
     if request.method == "POST":
         # On form submission, the data is filtered
-        fltData = filter.data
-        fltOptions = {}
+        filteredData = filter.data  # starts with all location data
+        filteredOptions = {}  # for storing the user's selections
+
+        # Skips any unused filters
         for element_id, value in request.form.items():
             if value == "0" or value == "":
                 continue
 
-            fltData = filter.locationsFilter(element_id, value, fltData)
-            fltOptions.update({element_id:value})
+            # Calls the filtering function with the search (type/entry/data to check)
+            filteredData = filter.locationsFilter(element_id, value, filteredData)
+            # Stores the user's selection
+            filteredOptions.update({element_id:value})
 
         # Filtered table is returned
         # Selected options are displayed
-        # Converting the dictionary to a list allows length detection
-        fltData = list(fltData)
-        #fltOptions = list(fltOptions)
-        return render_template("table.html", list=fltData, options=fltOptions)
+        filteredData = list(filteredData)  # Converting the generator to a list allows length detection
+        return render_template("table.html", list=filteredData, options=filteredOptions)
 
 # Help & Information page URL is set
-# HTTP methods default so data is received only
+# HTTP methods are default so data is received only
 @app.route("/info")
 def info_route():
     return render_template("info.html")
 
+# Flask app is run, allowing access of the webpage
 app.run(host="localhost", port=port)
 
