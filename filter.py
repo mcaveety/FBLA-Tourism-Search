@@ -4,7 +4,7 @@
 import json
 
 # Opens data file for filtering
-with open("static/locations.json") as j:
+with open("json/locations.json") as j:
     data = json.load(j)
 
 """
