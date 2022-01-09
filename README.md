@@ -1,7 +1,5 @@
 # FBLA-Tourism-Search
 
-***
-
 ## 2021-2022 FBLA Project
 Created by Michelle McAveety at Freedom High School for the FBLA Coding and Programming competition
 
