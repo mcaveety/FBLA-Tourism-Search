@@ -32,8 +32,9 @@ Created by Michelle McAveety at Freedom High School for the FBLA Coding and Prog
 6. To terminate the program, close the command line window, or press CTRL + C when in the window
 
 ***
-### Data Sources
+### Data Sources & Other Credits
 
+**Data**
 + All attraction name, address, telephone, and description data was accessed from https://www.florida-backroads-travel.com/florida-tourist-attractions.html
 + Entries were omitted in scenarios where the aforementioned data was missing or inconsistent
 + Data was unaltered except to improve clarity or program functionality
@@ -42,3 +43,7 @@ Created by Michelle McAveety at Freedom High School for the FBLA Coding and Prog
 + Attraction price was algorithmically assigned based on attraction description and manually checked for accuracy
 + Attraction group size was algorithmically assigned based on attraction type. In instances where attraction type was "other", group size was manually assigned
 + Attraction rating was pseudorandomly assigned to each entry
+
+**Credits**
++ A segment of code used in filter.py was taken from https://stackoverflow.com/a/13790741
++ PyInstaller was used to bundle the program into a .exe file for easy use
