@@ -48,6 +48,6 @@ Created by Michelle McAveety at Freedom High School for the FBLA Coding and Prog
 **Credits**
 + Written in Python, HTML, and CSS, using .json format to store data
 + A segment of code used in filter.py was taken from https://stackoverflow.com/a/13790741
-+ Flask used to run the local webserver https://flask.palletsprojects.com/en/2.0.x/
++ Flask was used to run the local webserver https://flask.palletsprojects.com/en/2.0.x/
 + Jinja was used for HTML templating https://jinja.palletsprojects.com/en/3.0.x/
 + PyInstaller was used to bundle the program into a .exe file for easy use
