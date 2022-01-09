@@ -45,7 +45,7 @@ Created by Michelle McAveety at Freedom High School for the FBLA Coding and Prog
 + Attraction rating was pseudorandomly assigned to each entry
 
 **Credits**
-Written in Python, HTML, and CSS, using .json format to store data
++ Written in Python, HTML, and CSS, using .json format to store data
 + A segment of code used in filter.py was taken from https://stackoverflow.com/a/13790741
 + Flask used to run the local webserver https://flask.palletsprojects.com/en/2.0.x/
 + Jinja was used for HTML templating https://jinja.palletsprojects.com/en/3.0.x/
