@@ -19,7 +19,14 @@ A program created to assist in searching popular tourist attractions in the stat
 + Data file backs up each time the program is run to locations2.json
 
 ***
-### Disclaimers
+
+### Instructions to Run
+
+1. Download server.exe
+2. ?
+
+***
+### Data Sources
 
 + All attraction name, address, telephone, and description data was accessed from https://www.florida-backroads-travel.com/florida-tourist-attractions.html
 + Entries were omitted in scenarios where the aforementioned data was missing or inconsistent
