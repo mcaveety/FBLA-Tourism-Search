@@ -7,7 +7,7 @@ Created by Michelle McAveety at Freedom High School for the FBLA Coding and Prog
 
 ### Purpose
 + A program created to assist in searching through popular tourist attractions in the state of Florida
-+ Aims to provide a large selection of locations and search options, creating meaningful results
++ Aims to provide a large selection of attractions and search options, creating meaningful results
 
 ### Features
 
@@ -15,7 +15,7 @@ Created by Michelle McAveety at Freedom High School for the FBLA Coding and Prog
 + Filter the list search by attraction name, type, group size, rating, and price
 + Allows easy filtering through accessible dropdown menus
 + Non-case-sensitive searching
-+ Displays additional information such as location descriptions, addresses, and phone numbers
++ Displays additional information such as attraction descriptions, addresses, and phone numbers
 + 185 entries to search through
 + Help & Information page provided for additional details on the program
 + Data file backs up each time the program is run to locations2.json
