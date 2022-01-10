@@ -25,7 +25,7 @@ Created by Michelle McAveety at Freedom High School for the FBLA Coding and Prog
 ### Instructions to Run
 
 + This program is intended for use on Windows 10 operating systems
-1. Head to the Releases section for this repository and download "Florida_Tourist_Attractions.exe" [(Version 1.0.0)](https://github.com/meepowlz/FBLA-Tourism-Search/releases/tag/v1.0.0)
+1. Head to the Releases section for this repository and download "Florida_Tourist_Attractions.exe" [Click Here (Version 1.0.0)](https://github.com/meepowlz/FBLA-Tourism-Search/releases/tag/v1.0.0)
 2. Double-click the file to run it. A popup dialog may appear stating that "Windows protected your PC". Click "More info", then "Run anyway"
 3. A black box command line will open. This indicates that the program is running. Open your internet browser of choice (ex. Google Chrome, Firefox, Internet Explorer, etc.)
 4. Head to the URL listed in the command line, [http://localhost:8080/](http://localhost:8080/)
